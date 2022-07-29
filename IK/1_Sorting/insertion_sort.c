@@ -7,7 +7,7 @@
  *  Time complexity = O(n²)
  *      Worst complexity: n^2
  *      Average complexity: n^2
- *      Average complexity: n^2
+ *      Best complexity: n
  *
  *  Space complexity: O(1)
  *      i.e. in-place algorithm
